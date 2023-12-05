@@ -2,3 +2,5 @@ profile_default/
 ipython_config.py
 **/.DS_Store
 .ipynb_checkpoints
+dataset/
+example.ipynb
