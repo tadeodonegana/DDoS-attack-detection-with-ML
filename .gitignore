@@ -1,6 +1,10 @@
 profile_default/
 ipython_config.py
 **/.DS_Store
+<<<<<<< HEAD
 .ipynb_checkpoints
 dataset/
 example.ipynb
+=======
+.ipynb_checkpoints/
+>>>>>>> 04f7122ef473602cc9812da5e3550278a505d36b
